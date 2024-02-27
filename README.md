@@ -3,9 +3,9 @@
 
 
 <div align="center">
-    <img src="HPprobook6570bPhoto3.jpg" alt="Фото 1" width="400" height="300">
-    <img src="HPprobook6570bProm8.jpg" alt="Фото 2" width="400" height="300">
-    <img src="23y500pmi09d5aczz9rjn5f1ojsl2lso.jpg" alt="Фото 3" width="400" height="300">
+    <img src="HPprobook6570bPhoto3.jpg" alt="Фото 1" width="500" height="400">
+    <img src="HPprobook6570bProm8.jpg" alt="Фото 2" width="500" height="400">
+    <img src="23y500pmi09d5aczz9rjn5f1ojsl2lso.jpg" alt="Фото 3" width="500" height="400">
 </div>
 
 ## Характеристики Ноутбука HP ProBook 6570b 
