@@ -44,5 +44,5 @@
   - Вбудований мікрофон
     
 ### Перегляньте відеоогляд на YouTube!
-[![Відеоогляд на YouTube]([https://img.youtube.com/vi/yourvideourl/0.jpg)](https://www.youtube.com/watch?v=yourvideourl](https://youtu.be/OfnoHRi5oQU)https://youtu.be/OfnoHRi5oQU)
+[![Відеоогляд на YouTube]([[https://img.youtube.com/vi/yourvideourl/0.jpg)](https://www.youtube.com/watch?v=yourvideourl](https://youtu.be/OfnoHRi5oQU)https://youtu.be/OfnoHRi5oQU](https://www.youtube.com/watch?v=OfnoHRi5oQU&t=12s)https://www.youtube.com/watch?v=OfnoHRi5oQU&t=12s)
 
