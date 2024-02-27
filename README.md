@@ -3,7 +3,7 @@
 
 
 ![Фото 1](HPprobook6570bPhoto3.jpg)
-
+![Фото 2](HPprobook6570bProm8.jpg height="500")
 ## Характеристики Ноутбука HP ProBook 6570b 
 **Серія:** ProBook 6570b 
 - **Екран:**
@@ -39,4 +39,4 @@
   - Веб-камера 720p HD
   - Вбудований мікрофон
 
-    ![Фото 2](HPprobook6570bProm8.jpg)
+
