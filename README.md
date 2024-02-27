@@ -3,7 +3,7 @@
 
 
 ![Фото 1](HPprobook6570bPhoto3.jpg)
-![Фото 2](HPprobook6570bProm8.jpg height="500")
+![Фото 2](HPprobook6570bProm8.jpg)
 ## Характеристики Ноутбука HP ProBook 6570b 
 **Серія:** ProBook 6570b 
 - **Екран:**
